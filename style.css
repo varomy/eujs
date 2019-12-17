@@ -1,0 +1,17 @@
+body{
+    background: silver;
+}
+#box{
+    position: relative;
+    margin: auto;
+    width:800px ;
+    height:700px ;
+    background: slategrey;
+}
+.ww{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    float: left;
+    display: none;
+}
